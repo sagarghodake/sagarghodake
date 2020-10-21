@@ -15,8 +15,8 @@ Completed MCA (2020) and have hands on experience on developing application usin
 - 💬 Ask me about anything, I am happy to help;
 - I am currently learning Full-Stack Web Development. 🌐
 - I'm also a Competitive Programmer. 💻
-- 📫 How to reach me:sagarghodake1432@gmail.com|9527495733 
-- 📝[Resume](https://drive.google.com/drive/u/0/folders/1YAJzbL0QuAQ6b2rqqihjlXeoHafGTnd_)
+- 📫 How to reach:sagarghodake1432@gmail.com|9527495733 
+- 📝[Resume](https://sagarghodake.github.io/myportfolio/)
 
 
 🤝🏻 Let's Connect and Collaborate! 🤝🏻
