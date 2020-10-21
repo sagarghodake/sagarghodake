@@ -1,6 +1,6 @@
 ## Sagar Ghodake
 
-### Hi there 👋
+### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm Sagar Ghodake, a Java Developer 🚀 from India. Currently, I'm a Full Stack Web Developer @Coder & Collaborator 🙍🏽‍♂️ @OpenToWork, Mentor 👨🏽‍💼 @ Master Of Computer Aplication(MCA) @Shivaji University. Beside's programming, I enjoy eating food and Swimming.
 
@@ -15,7 +15,7 @@ Completed MCA (2020) and have hands on experience on developing application usin
 - 💬 Ask me about anything, I am happy to help;
 - I am currently learning Full-Stack Web Development. 🌐
 - I'm also a Competitive Programmer. 💻
-- 📫 How to reach:sagarghodake1432@gmail.com|9527495733 
+- 📫 How to reach   :   sagarghodake1432@gmail.com|9527495733 
 - 📝[Resume](https://sagarghodake.github.io/myportfolio/)
 
 
