@@ -4,7 +4,9 @@
 
 Hi, I'm Sagar Ghodake, a Java Developer 🚀 from India. Currently, I'm a Full Stack Web Developer @Coder & Collaborator 🙍🏽‍♂️ @OpenToWork, Mentor 👨🏽‍💼 @ Master Of Computer Aplication(MCA) @Shivaji University. Beside's programming, I enjoy eating food and Swimming.
 
-Completed MCA (2020) and have hands on experience on developing application using J2SE and J2EE (JSP & SERVLETS) technologies. I am looking forward to work with companies where I can learn,work and grow professionally and personally.
+Java Developer 😉 Completed MCA (2020) and have hands on experience on developing application using J2SE and J2EE (JSP & SERVLETS) technologies.I can learn,work and grow professionally and personally.
+
+Working at #Atyeti IT Services Pvt. Ltd., Pune, Maharashtra as a Trainee Software Developer.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
