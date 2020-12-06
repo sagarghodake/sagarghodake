@@ -10,6 +10,9 @@ Working at #Atyeti IT Services Pvt. Ltd., Pune, Maharashtra as a Trainee Softwar
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
+<h5>My Live website...👉<b><a href="http://projectlist.codertechnologies.in/ExamHub_Sagar_Ghodake_CT24-Pune/studentHome.jsp">
+		ExamHub_Sagar_Ghodake_CT24-Pune/studentHome.jsp </b></a></h5>
+  
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
@@ -19,10 +22,6 @@ Working at #Atyeti IT Services Pvt. Ltd., Pune, Maharashtra as a Trainee Softwar
 - I'm also a Competitive Programmer. 💻
 - 📫 How to reach   :   sagarghodake1432@gmail.com|9527495733 
 - 📝[Digital Resume](https://sagarghodake.github.io/myportfolio/)
-
-
-<h5>My Live website...👉<b><a href="http://projectlist.codertechnologies.in/ExamHub_Sagar_Ghodake_CT24-Pune/studentHome.jsp">
-		ExamHub_Sagar_Ghodake_CT24-Pune/studentHome.jsp </b></a></h5>
 
 
 🤝🏻 Let's Connect and Collaborate! 🤝🏻
