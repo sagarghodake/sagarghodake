@@ -4,9 +4,12 @@
 
 Hi, I'm Sagar Ghodake, a Java Developer 🚀 from India. Currently, I'm a Full Stack Web Developer @Coder & Collaborator 🙍🏽‍♂️, Mentor 👨🏽‍💼 @ Master Of Computer Aplication(MCA) @Shivaji University. Beside's programming, I enjoy learning new technologies and Swimming.
 
-Java Developer 😉 Completed MCA (2020) and have hands on experience on developing application using J2SE and J2EE (JSP & SERVLETS) technologies.I can learn,work and grow professionally and personally.
+I have hands-on experience in developing an application using J2SE and J2EE technologies. Experienced Java Software Intern with a demonstrated history of working in the information technology and services industry. Skilled in Hibernate, Servlet, JSP, Spring, Web services and Maven.
+
+Additional Skills : Azure, Jenkins, Git, ShellScript, GitHub, BitBuket, Gresham CTC,Unix, Continuous Integration, Continuous Delivery,Oracle, SQL Server, Gresham CTC Installation/Integration/Development/Admin, Software Testing
 
 Working at #Atyeti IT Services Pvt. Ltd., Pune, Maharashtra as a Trainee Software Developer.
+
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -22,6 +25,7 @@ Working at #Atyeti IT Services Pvt. Ltd., Pune, Maharashtra as a Trainee Softwar
 - I'm also a Competitive Programmer. 💻
 - 📫 How to reach   :   sagarghodake1432@gmail.com|9527495733 
 - 📝[Digital Resume](https://sagarghodake.github.io/myportfolio/)
+- 📝[LinkedIn Profile](https://www.linkedin.com/in/sagar-ghodake-06586a159)
 
 
 🤝🏻 Let's Connect and Collaborate! 🤝🏻
