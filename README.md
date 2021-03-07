@@ -2,7 +2,7 @@
 
 ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Sagar Ghodake, a Java Developer 🚀 from India. Currently, I'm a Full Stack Web Developer @Coder & Collaborator 🙍🏽‍♂️, Mentor 👨🏽‍💼 @ Master Of Computer Aplication(MCA) @Shivaji University. Beside's programming, I enjoy eating food and Swimming.
+Hi, I'm Sagar Ghodake, a Java Developer 🚀 from India. Currently, I'm a Full Stack Web Developer @Coder & Collaborator 🙍🏽‍♂️, Mentor 👨🏽‍💼 @ Master Of Computer Aplication(MCA) @Shivaji University. Beside's programming, I enjoy learning new technologies and Swimming.
 
 Java Developer 😉 Completed MCA (2020) and have hands on experience on developing application using J2SE and J2EE (JSP & SERVLETS) technologies.I can learn,work and grow professionally and personally.
 
