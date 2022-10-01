@@ -2,7 +2,7 @@
 
 ### Hey Buddy  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Sagar Ghodake, Java Developer 🚀 from Pune, MH, India. I'm a Full Stack Web Developer(JAVA), Coder, Collaborator 🙍🏽‍♂️ and Mentor 👨🏽‍💼. I have studied @ Master Of Computer Application(MCA) at @Shivaji University. Besides programming, I enjoy learning new technologies, Swimming and ofcourse travelling to new places.
+I'm Sagar Ghodake, Java Developer 🚀 from Pune, MH, India. I'm a Full Stack Web Developer(JAVA), Coder, Collaborator 🙍🏽‍♂️ and Mentor 👨🏽‍💼. I have studied @ Master Of Computer Application(MCA) at @Shivaji University. Besides programming, I enjoy learning new technologies, Swimming and ofcourse traveling to new places.
 
 I have hands-on experience in developing an application using J2SE and J2EE technologies. Experienced Java Software Intern with a demonstrated history of working in the information technology and services industry. Skilled in Hibernate, Servlet, JSP, Spring, Web services and Maven.
 
