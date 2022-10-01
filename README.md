@@ -2,13 +2,13 @@
 
 ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Sagar Ghodake, a Java Developer 🚀 from India. Currently, I'm a Full Stack Web Developer @Coder & Collaborator 🙍🏽‍♂️, Mentor 👨🏽‍💼 @ Master Of Computer Application(MCA) @Shivaji University. Beside's programming, I enjoy learning new technologies and Swimming.
+Hi, I'm Sagar Ghodake, Java Developer 🚀 from India. I'm a Full Stack Web Developer @Coder & Collaborator 🙍🏽‍♂️, Mentor 👨🏽‍💼  and studied @ Master Of Computer Application(MCA) from @Shivaji University. Besides programming, I enjoy learning new technologies, Swimming and ofcourse travelling to new places.
 
 I have hands-on experience in developing an application using J2SE and J2EE technologies. Experienced Java Software Intern with a demonstrated history of working in the information technology and services industry. Skilled in Hibernate, Servlet, JSP, Spring, Web services and Maven.
 
-Additional Skills : Azure, Jenkins, Git, ShellScript, GitHub, BitBuket, Gresham CTC,Unix, Continuous Integration, Continuous Delivery,Oracle, SQL Server, Gresham CTC Installation/Integration/Development/Admin, Software Testing
+Additional Skills :  GitHub, BitBuket, Azure, Jenkins, Git, ShellScript, Gresham CTC,Unix, Continuous Integration, Continuous Delivery,Oracle, SQL Server, Control-M Gresham CTC Installation/Integration/Development/Admin, Software Testing, Agile methodologies, L3 Co-ordinator, pre and post processing configurations, End to end release management
 
-Working at #Atyeti IT Services Pvt. Ltd., Pune, Maharashtra as a Trainee Software Developer.
+Working at #Atyeti IT Services Pvt. Ltd., Pune, Maharashtra as a Software Developer.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -16,15 +16,15 @@ Working at #Atyeti IT Services Pvt. Ltd., Pune, Maharashtra as a Trainee Softwar
 <h3>My Live website...👉<b><a href="http://projectlist.codertechnologies.in/ExamHub_Sagar_Ghodake_CT24-Pune/studentHome.jsp">
 		ExamHub_Sagar_Ghodake_CT24-Pune/studentHome.jsp </b></a></h3>
   
-**Talking about Personal Stuffs:**
+**Talking about personal stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Java Frameworks; 
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 Investment Banking Development & Financial Services :wink:;
+- 🌱 Learning different Java Frameworks; 
+- 💬 Ask me about anything, I am happy to help you anytime;
 - I am currently learning Full-Stack Web Development. 🌐
-- I'm also a Competitive Programmer. 💻
+- I'm a Competitive Programmer. 💻
 - 📫 How to reach   :   sagarghodake1432@gmail.com|9527495733 
-- 📝[Digital Resume](https://sagarghodake.github.io/myportfolio/)
+- 📝[portFolio](https://sagarghodake.github.io/myportfolio/)
 - 📝[LinkedIn Profile](https://www.linkedin.com/in/sagar-ghodake-06586a159)
 
 
