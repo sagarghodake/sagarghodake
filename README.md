@@ -8,7 +8,7 @@ I have hands-on experience in developing an application using J2SE and J2EE tech
 
 Additional Skills :  GitHub, BitBuket, Azure, Jenkins, Git, ShellScript, Gresham CTC,Unix, Continuous Integration, Continuous Delivery,Oracle, SQL Server, Control-M Gresham CTC Installation/Integration/Development/Admin, Software Testing, Agile methodologies, L3 Co-ordinator, pre and post processing configurations, End to end release management
 
-Working at #Atyeti IT Services Pvt. Ltd., Pune, Maharashtra as a Software Developer.
+Working at #Barclays, Pune, Maharashtra as a Software Engineer
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -23,7 +23,7 @@ Working at #Atyeti IT Services Pvt. Ltd., Pune, Maharashtra as a Software Develo
 - 💬 Ask me about anything, I am happy to help you anytime.
 - I am currently learning Full-Stack Web Development 🌐
 - I'm a Competitive Programmer 💻
-- 📫 How to reach   :   sagarghodake1432@gmail.com|9527495733 
+- 📫 How to reach   :   sagarghodake1432@gmail.com
 - 📝[portFolio](https://sagarghodake.github.io/myportfolio/)
 - 📝[LinkedIn Profile](https://www.linkedin.com/in/sagar-ghodake-06586a159)
 
